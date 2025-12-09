@@ -29,7 +29,7 @@ TripStarter 是一個針對大學生及年輕旅遊族群設計的 AI 行程規�
 
 ## 專題提案影片
 
-[觀看專題提案影片](https://youtu.be/vZrlIT-N2P0)
+[點此觀看專題提案影片](https://youtu.be/KhkiNk3zIqk)
 
 ---
 
